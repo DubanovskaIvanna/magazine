@@ -1,2 +1,2 @@
 # magazine
-Girl's magazine
+Girl's cool magazine
