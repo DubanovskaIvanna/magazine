@@ -1,0 +1,2 @@
+# magazine
+Girl's magazine
